@@ -1,6 +1,6 @@
 # Go live reload
 
-## Auto reload code while development Go apps in a Docker container
+## Auto reload code while developing Go apps in a Docker container
 
 ## Usage
 * cd dev
